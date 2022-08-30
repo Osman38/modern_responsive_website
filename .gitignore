@@ -11,6 +11,7 @@ lerna-debug.log*
 dist
 dist-ssr
 *.local
+page_screen.png
 
 # Editor directories and files
 .vscode/*
